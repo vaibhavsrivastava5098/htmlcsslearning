@@ -1,0 +1,15 @@
+body {
+    background-color: cyan;
+    text-align: center;
+}
+
+.stroke {
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: brown;
+    text-shadow: 5px 5px 6px blue;  
+    zoom: 1;  
+}
+
+.stroke:hover{
+    zoom:220%;
+}
